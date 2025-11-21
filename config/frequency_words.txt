@@ -1,9 +1,4 @@
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 特斯拉
 马斯克
 
@@ -39,3 +34,11 @@ ai
 
 英雄联盟
 赛事
+s16
+
+github
+copilot
+
+steam
+Gabe Newell
+G胖
